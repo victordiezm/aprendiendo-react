@@ -1,0 +1,9 @@
+npm create vite@latest | Crear un nuevo proyecto con VITE
+npm run dev | Ejecutar modo dev
+npm run build | Generar la carpeta "dist" para el modo producción
+
+npm install standard -D | Lintern
+
+Tests
+npm init playwright@latest
+npx playwright test
